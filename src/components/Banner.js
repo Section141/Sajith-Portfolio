@@ -46,7 +46,7 @@ export const Banner = () => {
       setIndex(prevIndex => prevIndex + 1);
     }
   }
-
+// Updated Resume
   const resume = () => {
     window.open('https://drive.google.com/file/d/1W9E_3nWT8himD_9fqzXV_MUwmWQppwog/view?usp=sharing', '_blank', 'noopener,noreferrer');
 };
