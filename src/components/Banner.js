@@ -48,7 +48,7 @@ export const Banner = () => {
   }
 
   const resume = () => {
-    window.open('https://drive.google.com/file/d/1mpD2eE_4nnJAp7KB5v3fGEumHdvTZ6As/view?usp=sharing', '_blank', 'noopener,noreferrer');
+    window.open('https://drive.google.com/file/d/1W9E_3nWT8himD_9fqzXV_MUwmWQppwog/view?usp=sharing', '_blank', 'noopener,noreferrer');
 };
 
   return (
