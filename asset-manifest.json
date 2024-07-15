@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sajith-Portfolio/static/css/main.48f6678c.css",
-    "main.js": "/Sajith-Portfolio/static/js/main.d6350ab6.js",
+    "main.js": "/Sajith-Portfolio/static/js/main.b49a7978.js",
     "static/js/787.fb771931.chunk.js": "/Sajith-Portfolio/static/js/787.fb771931.chunk.js",
     "static/media/vr.jpg": "/Sajith-Portfolio/static/media/vr.c2fcb49e6bb1ce1c9798.jpg",
     "static/media/contact-img.jpg": "/Sajith-Portfolio/static/media/contact-img.d4b99cb76341a8d46ad6.jpg",
@@ -38,11 +38,11 @@
     "static/media/cpro.svg": "/Sajith-Portfolio/static/media/cpro.4d943a0cb2aae0c439363d64b64f92e7.svg",
     "static/media/react.svg": "/Sajith-Portfolio/static/media/react.928f956d9c8ebcffb98a8e917154a81a.svg",
     "main.48f6678c.css.map": "/Sajith-Portfolio/static/css/main.48f6678c.css.map",
-    "main.d6350ab6.js.map": "/Sajith-Portfolio/static/js/main.d6350ab6.js.map",
+    "main.b49a7978.js.map": "/Sajith-Portfolio/static/js/main.b49a7978.js.map",
     "787.fb771931.chunk.js.map": "/Sajith-Portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.48f6678c.css",
-    "static/js/main.d6350ab6.js"
+    "static/js/main.b49a7978.js"
   ]
 }
