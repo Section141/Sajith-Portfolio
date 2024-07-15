@@ -48,7 +48,7 @@ export const Banner = () => {
   }
 // Updated Resume
   const resume = () => {
-    window.open('https://drive.google.com/file/d/1W9E_3nWT8himD_9fqzXV_MUwmWQppwog/view?usp=sharing', '_blank', 'noopener,noreferrer');
+    window.open('https://drive.google.com/file/d/1t1q9h8Dp_rnsmO6PETOIKYsHZ4OwmKh2/view?usp=sharing', '_blank', 'noopener,noreferrer');
 };
 
   return (
