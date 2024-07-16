@@ -51,7 +51,7 @@ export const NavBar = () => {
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-                <a onClick={linkedin}href="#"><img src={navIcon1} alt="" /></a>
+                <a onClick={linkedin}href="https://www.linkedin.com/in/sajithmuralidhar/"><img src={navIcon1} alt="" /></a>
               </div>
             </span>
           </Navbar.Collapse>
